@@ -1,5 +1,7 @@
 # Spatial-Microsimulation-Food-and-Alcohol-in-the-UK-R
 # please check the 'Code_Microsimulation.R' file for full reproducible code. The code has extensive notes about what each line of the ipfp function does.
+![R_screenshot](https://github.com/user-attachments/assets/72d90b91-83a6-4a3c-ad57-192f438bbfa6)
+
 
 This project uses spatial microsimulation techniques to estimate the average daily consumption of various food and drink items, most notably alcohol, across Oxford's Lower Super Output Areas (LSOAs). It generates high-resolution, synthetic population data that is statistically aligned with official demographics, enabling localised public health insights.
 
