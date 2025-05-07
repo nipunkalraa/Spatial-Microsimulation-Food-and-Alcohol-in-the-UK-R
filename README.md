@@ -36,6 +36,7 @@ sf, tmap – Spatial data manipulation and visualisation
 
 # 📍 Map
 Estimated Alcohol Consumption in Oxford (ml/day)
+![Oxford Alcohol Consumption_Spatial Microsimulation](https://github.com/user-attachments/assets/02846ad3-f02c-4481-92ed-8dc06c7861bd)
 
 # 🖼️ Map Interpretation
 The choropleth map shows spatial variation in average alcohol consumption (ml/day) at the LSOA level in Oxford. Darker regions indicate higher per capita intake.
