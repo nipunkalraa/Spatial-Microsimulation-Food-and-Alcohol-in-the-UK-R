@@ -1,0 +1,2 @@
+# Spatial-Microsimulation-Food-and-Alcohol-in-the-UK-R
+This project uses spatial microsimulation techniques to estimate average daily consumption of various food and drink items—most notably alcohol—across Oxford's Lower Super Output Areas (LSOAs). It generates high-resolution, synthetic population data that is statistically aligned with official demographics, enabling localized public health insights.
