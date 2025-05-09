@@ -10,10 +10,7 @@ This project uses spatial microsimulation techniques to estimate the average dai
 Microsimulation Engine: An Iterative Proportional Fitting Procedure (IPFP) matches synthetic individuals to area-level demographic constraints.
 
 # Constraint Variables:
-Age-Sex combinations
-Ethnicity
-Health status
-Employment status
+Age-Sex combinations, Ethnicity, Health status, Employment status
 
 # Consumption Outputs:
 
@@ -21,19 +18,19 @@ Estimated daily intake of 13 items, including meats (e.g., pork, beef), plant-ba
 
 # 📊 Datasets Used
 
-individuals.csv – Synthetic individuals with consumption attributes
+individuals.csv – Synthetic individuals with consumption attributes | 
 
-Constraint datasets (age_sex.csv, Ethnicity.csv, Health.csv, Work.csv) – UK 2011 Census-based marginal totals
+Constraint datasets (age_sex.csv, Ethnicity.csv, Health.csv, Work.csv) – UK 2011 Census-based marginal totals | 
 
 Geographic Focus: Final simulation and visualization are filtered for Oxford, UK (70+ LSOAs)
 
 # 📦 Packages Used
 
-tidyverse – Data wrangling and transformation
+tidyverse – Data wrangling and transformation | 
 
-ipfp – Iterative proportional fitting algorithm
+ipfp – Iterative proportional fitting algorithm | 
 
-sf, tmap – Spatial data manipulation and visualisation
+sf, tmap – Spatial data manipulation and visualisation | 
 
 # 📍 Map
 Estimated Alcohol Consumption in Oxford (ml/day)
